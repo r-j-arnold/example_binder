@@ -1,7 +1,5 @@
-# Use the python package numpy and use version 1.16.1
-packages:
-    - numpy
-    - csv
-    - matplotlib.pyplot
-    - scipy.stats
+numpy
+csv
+matplotlib.pyplot
+scipy.stats
     
