@@ -1,7 +1,8 @@
 dependencies:
   - python
   - numpy
+  - matplotlib
+  - scipy
   - csv
-  - matplotlib.pyplot
-  - scipy.stats
+
     
