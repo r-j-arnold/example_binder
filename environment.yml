@@ -3,8 +3,8 @@ dependencies:
   - numpy
   - matplotlib
   - scipy
-  - pip
-    csv
+  - pip:
+    - csv
 
 
     
