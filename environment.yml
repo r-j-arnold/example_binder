@@ -1,5 +1,7 @@
-numpy
-csv
-matplotlib.pyplot
-scipy.stats
+dependancies:
+  - python
+  - numpy
+  - csv
+  - matplotlib.pyplot
+  - scipy.stats
     
