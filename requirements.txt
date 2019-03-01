@@ -1,4 +1,0 @@
-numpy
-csv
-matplotlib.pyplot
-scipy.stats

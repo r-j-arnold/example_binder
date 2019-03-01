@@ -1,0 +1,19 @@
+# Define the operating system as Linux
+os: linux
+
+# Use the xenial distribution of Linux
+dist: xenial
+
+# Use the programming language python
+language: python
+
+# Use version of python 3.2
+python: 3.2
+
+# Use the python package numpy and use version 1.16.1
+packages:
+    - numpy
+    - csv
+    - matplotlib.pyplot
+    - scipy.stats
+    
